@@ -1,0 +1,14 @@
+img {
+    width: 200px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 10px 0;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
